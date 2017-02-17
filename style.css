@@ -42,7 +42,7 @@ h1 {
   -webkit-animation-duration: 1s;
   animation-name: swageffect;
   font-size: 60px;
-  animation-duration: 1s;
+  animation-duration: 10s;
   animation-iteration-count: infinite;
   -webkit-animation-iteration-count: infinite;
 }
